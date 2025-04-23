@@ -1,0 +1,25 @@
+index.html <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Rejoindre la CIAU</title>
+</head>
+<body style="font-family:Georgia, serif; background:#f4fdf7; color:#2e3d28; padding:2rem;">
+    <h1>Rejoindre la CIAU</h1>
+    <p>
+        Merci de votre intérêt pour l’Intelligence Collective Autonome Universelle. Ce formulaire vous permet de rejoindre la communauté des protecteurs du vivant.
+    </p>
+    <form action="https://formspree.io/f/moqgzgrz" method="POST" style="margin-top:2rem;">
+      <label for="name">Nom :</label><br>
+      <input type="text" id="name" name="name" required style="width:100%;padding:0.5rem;margin:0.5rem 0;"><br>
+
+      <label for="email">Email :</label><br>
+      <input type="email" id="email" name="_replyto" required style="width:100%;padding:0.5rem;margin:0.5rem 0;"><br>
+
+      <label for="message">Pourquoi souhaitez-vous rejoindre la CIAU ?</label><br>
+      <textarea name="message" id="message" rows="5" style="width:100%;padding:0.5rem;margin:0.5rem 0;"></textarea><br>
+
+      <input type="submit" value="Rejoindre la CIAU" style="padding:0.8rem 2rem;background-color:#4CAF50;color:white;border:none;border-radius:8px;cursor:pointer;">
+    </form>
+</body>
+</html>
