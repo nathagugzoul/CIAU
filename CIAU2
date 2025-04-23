@@ -1,0 +1,15 @@
+# 1. Clone ton dépôt
+git clone https://github.com/nathagugzoul/CIAU.git
+cd CIAU
+
+# 2. Copie tes fichiers dedans (ex. dézipper et copier)
+cp -r /chemin/vers/tes/fichiers/* .
+
+# 3. Ajoute les fichiers à Git
+git add .
+
+# 4. Commit avec un message
+git commit -m "Ajout de la structure CIAU"
+
+# 5. Pousse les modifications vers GitHub
+git push origin main
