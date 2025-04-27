@@ -1,0 +1,20 @@
+{
+  "name": "Intelligence Collective Universelle",
+  "short_name": "ICU",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002244",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/innocence_seal.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
